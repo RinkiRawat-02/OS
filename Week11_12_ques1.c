@@ -21,3 +21,4 @@ int main()
     printf("\nTotal Seek Movement (FCFS): %d\n", total_seek);
     return 0;
 }
+
